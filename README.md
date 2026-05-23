@@ -1,3 +1,3 @@
-# Intellistra-Fashion
+# fashion-erp
 
 Fashion ERP — powered by APPNEURAL
